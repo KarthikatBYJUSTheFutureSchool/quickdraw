@@ -1,0 +1,32 @@
+body
+{
+    background-color:rgb(186, 237, 237);
+}
+
+h1
+{
+color: aqua;
+background-color: lightseagreen;
+
+}
+#score {
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+#timer {
+    font-size: 20px;
+    float: right;
+    margin-right: 20px;
+}
+
+#sketchName {
+    color: blue;
+}
+
+
+
+p{
+    padding-top: 10px;
+    font-size: 25px;
+}
